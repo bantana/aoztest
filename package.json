@@ -1,0 +1,22 @@
+{
+  "name": "aoztest",
+  "version": "1.0.0",
+  "description": "my first npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bantana/aoztest.git"
+  },
+  "keywords": [
+    "aoztest"
+  ],
+  "author": "bantana@aozsky.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bantana/aoztest/issues"
+  },
+  "homepage": "https://github.com/bantana/aoztest#readme"
+}
